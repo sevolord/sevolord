@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, general Kenobi.
+Я - студент.
+Так что ничего серьезного
 
 <!--
 **sevolord/sevolord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
