@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vsevolod</h1>
-<h3 align="center">Я - студент. Так что ничего серьезного</h3>
+<h1 align="left">Hi 👋, I'm Vsevolod</h1>
+<h3 align="left">Я - студент. Так что ничего серьезного</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sevolord&label=Profile%20views&color=0e75b6&style=flat" alt="sevolord" /> </p>
 
