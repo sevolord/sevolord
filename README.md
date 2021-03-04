@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Vsevolod</h1>
 <h3 align="left">Я - студент. Так что ничего серьезного</h3>
-<p align="left"> <a href="https://vk.com/sevanakodil" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/vk-1.svg" alt="VKBlog" width="40" height="40"/> </a> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sevolord&label=Profile%20views&color=0e75b6&style=flat" alt="sevolord" /> </p>
-
-
+<h3 align="left">Social:</h3>
+<p align="left"> <a href="https://vk.com/sevanakodil" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/vk-1.svg" alt="VKBlog" width="40" height="40"/> </a> </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
