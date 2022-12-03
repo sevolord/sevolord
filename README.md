@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Vsevolod</h1>
-<h3 align="left">Desktop C++ Developer</h3>
+<h3 align="left">Desktop C++ Developer: Embarcadero RAD STudio, VCL, FastReport</h3>
 <h3 align="left">Arduino Developer</h3>
 
 
